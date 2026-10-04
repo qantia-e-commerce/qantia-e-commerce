@@ -1,16 +1,13 @@
-## Hi there 👋
+# QantIA — Plateforme E-Commerce Québécoise
 
-<!--
-**qantia-e-commerce/qantia-e-commerce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur le profil officiel de **Technologies QantIA**. 
 
-Here are some ideas to get you started:
+## À propos du projet
+**QantIA** (`qantia.ca`) est une plateforme e-commerce moderne, accessible et souveraine, conçue au Québec comme une alternative performante et sans commission aux solutions traditionnelles et sur-mesure. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Fondateur et développeur** : Steven
+* **Localisation** : Lac-Mégantic, Québec, Canada
+* **Mission** : Offrir aux commerçants et artisans une infrastructure e-commerce transparente, locale et taillée pour leurs besoins réels.
+
+## En savoir plus
+Pour découvrir notre solution ou joindre notre équipe, visitez [qantia.ca](https://qantia.ca).
